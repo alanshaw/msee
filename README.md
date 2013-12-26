@@ -1,6 +1,8 @@
 msee
 ===
 
+**WARNING: `2.0.x` is the DEV branch!**
+
 [![Dependencies Status](https://david-dm.org/firede/msee.png)](https://david-dm.org/firede/msee)
 
 *msee* is a command-line tool to read markdown file.
