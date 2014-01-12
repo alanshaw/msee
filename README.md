@@ -40,7 +40,7 @@ https://github.com/firede/msee/graphs/contributors
 
 ## License
 
-MIT &copy; [Firede](https://github.com/firede)
+MIT &copy; 2013-2014 [Firede](https://github.com/firede)
 
 ===
 
